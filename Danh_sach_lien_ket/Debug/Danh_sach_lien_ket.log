@@ -1,0 +1,4 @@
+﻿  linked_list.cpp
+C:\Users\vtv2h\Documents\BTap VS code2019\Danh_sach_lien_ket\Danh_sach_lien_ket\linked_list.h(9,2): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+C:\Users\vtv2h\Documents\BTap VS code2019\Danh_sach_lien_ket\Danh_sach_lien_ket\linked_list.h(13,2): warning C4091: 'typedef ': ignored on left of 'list' when no variable is declared
+  Danh_sach_lien_ket.vcxproj -> C:\Users\vtv2h\Documents\BTap VS code2019\Danh_sach_lien_ket\Debug\Danh_sach_lien_ket.exe
